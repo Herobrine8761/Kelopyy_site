@@ -1,0 +1,22 @@
+h1 {
+    color: green;
+ font-family:"Comic Sans MS";
+}
+
+p {
+    color: green;
+ font-family:"Comic Sans MS";
+ font-size: 23px;
+}
+
+html {
+    background-color: aqua;
+}
+body {
+
+    text-align: center;
+}
+img {
+
+    scale: 1;
+}
